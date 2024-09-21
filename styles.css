@@ -22,7 +22,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: centre;
     width: 90%;
     max-width: 500px;
     position: relative;
@@ -36,6 +36,7 @@ body {
     border-radius: 8px;
     box-shadow: 0 0 20px rgba(4, 113, 255, 0.713);
     text-align: center;
+    justify-content: centre;
     box-sizing: border-box;
     width: 100%;
     min-height: 100px;
