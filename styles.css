@@ -10,7 +10,7 @@ body {
     background-color: #2c003e;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: centre;
     min-height: 100vh;
     padding: 20px;
     box-sizing: border-box;
