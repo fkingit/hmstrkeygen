@@ -50,7 +50,7 @@ label {
     display: block;
     margin-bottom: 10px;
     font-weight: bold;
-    color: #d1a3ff;
+    color: #ffffff;
 }
 
 select {
@@ -59,7 +59,7 @@ select {
     margin-bottom: 20px;
     border: 1px solid #ddd;
     border-radius: 4px;
-    background-color: #4b006e;
+    background-color: #073CFF;
     color: #ffffff;
     text-align-last: center;
     font-size: large;
@@ -105,7 +105,7 @@ select option {
 .progress-text {
     margin-left: 10px;
     font-weight: bold;
-    color: #d1a3ff;
+    color: #ffffff;
 }
 
 .key-container {
@@ -116,7 +116,7 @@ select option {
 }
 
 .key-container h2 {
-    color: #d1a3ff;
+    color: #ffffff;
 }
 
 .keys-list {
@@ -183,7 +183,7 @@ select option {
 
 .copy-status {
     margin-top: 10px;
-    color: #d1a3ff;
+    color: #ffffff;
     font-weight: bold;
 }
 
@@ -195,7 +195,7 @@ select option {
 }
 
 #languageSelect {
-    background-color: #4b006e;
+    background-color: #073CFF;
     color: #ffffff;
     border: 1px solid #ddd;
     border-radius: 4px;
@@ -205,7 +205,7 @@ select option {
 
 .footer-button {
     margin-top: 20px;
-    background-color: #6a0080;
+    background-color: #0471FF;
     color: white;
     border: none;
     border-radius: 4px;
