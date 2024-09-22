@@ -189,7 +189,7 @@ select option {
 }
 
 .language-selector {
-    position: relative;
+    position: centre;
     top: 20px;
     align-items: center;
     margin-bottom: 20px;
